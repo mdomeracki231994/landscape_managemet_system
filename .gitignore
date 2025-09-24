@@ -1,0 +1,56 @@
+# OS
+.DS_Store
+
+# IDEs
+.vs/
+.idea/
+.vscode/
+
+# Build artifacts
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Logs and diagnostics
+logs/
+*.log
+*.tlog
+build.log
+msbuild.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+*.nuget.props
+*.nuget.targets
+
+# Test results / coverage
+TestResult*/
+TestResults/
+*.coverage
+*.coveragexml
+
+# Publish outputs
+publish/
+PublishOutput/
+
+# Rider/Resharper
+*.sln.iml
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Local database files
+*.mdf
+*.ldf
+
+# Environment-specific config
+appsettings.Development.json
